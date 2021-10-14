@@ -1,0 +1,38 @@
+#all {
+    background-color: cyan;
+}
+#nom {
+    color: rgb(253, 253, 253);
+    text-align: center;
+    border-color: rgb(87, 89, 243);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;    
+    background-image: url(file:///C:/Users/maelp/Downloads/electrique.jpg);
+    font-family: fantasy;
+}
+
+#scolaire {
+    text-align: center;
+    border: cornflowerblue;
+    border-width: 5px;
+    border-radius: 27%;
+    border-style: solid;
+    border-color:   rgb(50, 156, 218);
+    color: rgb(0, 0, 0);
+    background-image: url(file:///C:/Users/maelp/Downloads/meme-knuckles-3D-model_D.jpg);
+    font-size: 140%;
+    font-family: monospace;
+}
+
+#diplomes {
+    color: white;
+    text-align: center;
+    border-color: rgb(0, 4, 255);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;    
+    background-image: url(file:///C:/Users/maelp/Downloads/electrique.jpg);
+    font-family: fantasy;
+    font-size: 140%;
+}

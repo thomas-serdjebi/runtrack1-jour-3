@@ -1,0 +1,41 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#information {
+    text-align: center;
+    border-color: rgb(255, 0, 0);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+#scolaire {
+    background-color:rgb(243, 101, 101);
+    text-align: center;
+    border-color: rgb(235, 71, 71);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;
+    background-image: url(file:///C:/Users/maelp/Downloads/search.jpg);
+}
+
+ #diplomes {
+    background-color:whitesmoke;
+    text-align: center;
+    border-color: rgb(255, 0, 0);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;
+    background-color: rgb(240, 240, 240);
+ }
+ 
+ #connaissances {
+    background-color:whitesmoke;
+    text-align: center;
+    border-color: rgb(172, 150, 150);
+    border-width: 5px;
+    border-radius: auto;
+    border-style: solid;
+ }

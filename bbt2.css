@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    background-color: black;
+
+}
+
+    #bloc1 {
+    background-color: slategrey;
+}
+
+#bloc2 {
+    background-color:lightgray;
+    border-radius: 50%;
+    color:black;
+    padding-bottom: 3.5%;
+    padding-top: 0.5%;
+}
+
+#bloc3 {
+    background-color: black;
+}
+
+li{
+    color:black;
+}
+.titre {
+    font-family: lobster; 
+    font-size: 60px;
+}
+
+.banderole {
+    border-radius: 30%; 
+}
+
+#phrase1 {
+    font-style: italic; 
+    font-family: nanum myeongjo;
+    font-size: 120%;
+}
+
+#phrase2 {
+    font-style: italic;
+    font-family: nanum myeongjo;
+}
+
+#phrase3 {
+    font-style: italic;
+    font-family : nanum myeongjo;
+    font-size: 120%;
+}
+
+#phrase4 {
+    font-style: italic;
+    font-family: nanum myeongjo;
+}
+
+.liste li a {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 24px;
+    top: 10px;
+}
+
+.credo {
+    color:lightgray;
+    font-family: permanent marker;
+    font-size: 45px;
+    padding: 40px;
+}
+
+.icones {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 12px;
+}

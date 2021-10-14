@@ -1,0 +1,10 @@
+html{background-color: black;
+    font-family: 'Gemunu Libre', sans-serif;}
+image{text-align: center ;}
+h1{text-align: center;
+color: rgb(253, 5, 5);}
+h2{
+    color: rgb(253, 5, 5);
+    text-decoration:underline solid red ;}
+p{color: rgb(253, 5, 5)}
+li{color: rgb(253, 5, 5)}

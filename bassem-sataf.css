@@ -1,0 +1,62 @@
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@500&display=swap');
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    color:rgb(16, 101, 212);
+    font-family: "Noto Sans Display", cursive ;
+    text-shadow: 5px 4px 2px #92dcd4;
+    font-size: 40px;
+}
+H3 {
+    font-family: "Noto Sans Display", cursive ;
+    letter-spacing: 2px;
+    color:darkcyan;  
+}
+
+h4 {
+    font-family: "Noto Sans Display", cursive;
+    color: rgb(255, 166, 57);
+}
+
+.Hobbies,
+.Diplomes,
+.Age{
+    border: 2px solid darkorange;
+    border-radius: 15px;
+    box-shadow: 9px 7px 10px 0px #c66830;
+    padding: 15px;
+    margin: 10px;   
+
+}
+
+.Hobbies{
+    width: 40%;
+}
+
+.Age{
+    width: 40%;
+}
+
+.Diplomes{
+    width: 40%;
+    height: 30%;
+}
+
+p{
+    padding: 0px;
+}
+
+h4{
+    padding: 0px;
+}
+.tout{display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+
+
